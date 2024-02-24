@@ -1,5 +1,5 @@
 # LL(k) parser
-This repository implements an LL(k) parser that can construct lookup tables for standard grammer parsing and parsing a string.
+This repository implements an LL(k) parser that can construct lookup tables for standard grammar parsing and parsing a string.
 # Output example
 ```
 Enter number of rules : 4   
